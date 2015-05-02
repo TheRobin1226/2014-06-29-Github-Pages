@@ -1,5 +1,5 @@
 # Let's Build a Website on Github
-
+I'm ready to work on this project
 There are thousands of ways to build and publish
 websites, today we're going to look at the way I
 prefer to create simple concepts and information
